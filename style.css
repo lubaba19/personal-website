@@ -1,0 +1,50 @@
+body{
+  background-color:maroon; 
+}
+/* styling for link of the main page, its name, and abbreviation of it*/ 
+#header-navbar{
+  background-color: rgba(245, 165, 17, 0.932);
+  text-align:center;
+}
+.navbar-header{
+  padding: 25px;
+}
+#name{
+font-family:italic;
+font-size: 45px;
+line-height: .2000;
+}
+#link{
+  font-family: Arial Black;
+  font-size: 25px;
+}
+.main{
+  padding: 20px;
+}
+#menu, #desi, #youtube{
+ width: 400px;
+ height: 250px;
+ /*border: 16px solid;*/
+ margin-right: 33px;
+}
+footer{
+  background-color: black;
+  text-align: center;
+  margin: 10px;
+  padding:10px;
+  color:white;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p1{
+  color:lightgreen;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.pics{
+  width: 240px;
+  height: 190px;
+  margin: 8px;
+}
+.center{
+  text-align: center;
+  font-size: 35px;
+}
